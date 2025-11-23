@@ -1,0 +1,13 @@
+[33mtag v1.0.0[m
+Tagger: Lem9090 <lem.videogames@gmail.com>
+Date:   Sun Nov 23 00:42:34 2025 -0500
+
+Lanzamiento inicial con cálculo de promedio de lecturas
+
+[33mcommit a99dd06dc91862a571a1817b4692df93992a0650[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0.0[m[33m)[m
+Merge: 0e3d227 075bb0b
+Author: Lem9090 <lem.videogames@gmail.com>
+Date:   Sun Nov 23 00:40:51 2025 -0500
+
+    Merge feature: promedio de lecturas
+
