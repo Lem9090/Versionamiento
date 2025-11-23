@@ -17,7 +17,7 @@ pipeline {
         stage('Mostrar archivos') {
             steps {
                 echo "📂 Listando archivos del proyecto..."
-                sh 'ls -R'     // Si tu agente es Windows, reemplaza por: bat 'dir'
+                sh 'ls -R'
             }
         }
 
@@ -47,4 +47,3 @@ pipeline {
         }
     }
 }
-
